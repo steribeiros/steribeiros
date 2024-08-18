@@ -2,7 +2,7 @@
 
 # Sobre mim
 
-Atualmente, moro em Madalena - CE, tenho 24 anos e sou bacharela em Engenharia de Computação pela Universidade Federal do Ceará (UFC) - Campus Quixadá. Durante minha trajetória escolar, sempre gostei de matemática e tive meu primeiro contato com programação aos 17 anos de idade, ao iniciar a graduação. Ao decorrer dos anos, uma área que me chama bastante atenção é Machine Learning, na qual já tive a oportunidade de utilizar algoritmos de Machine Learning Tradicional, Ensemble Learning e Deep Learning. Recentemente, iniciei meus estudos sobre Front-End.
+Atualmente, moro em Madalena - CE, tenho 24 anos e sou bacharela em Engenharia de Computação pela Universidade Federal do Ceará (UFC) - Campus Quixadá. Durante minha trajetória escolar, sempre gostei de matemática e tive meu primeiro contato com programação aos 17 anos de idade, ao iniciar a graduação, com a linguagem de programação C. Ao decorrer dos anos, uma área que me chama bastante atenção é Machine Learning, na qual já tive a oportunidade de utilizar algoritmos de Machine Learning Tradicional, Ensemble Learning e Deep Learning. Recentemente, iniciei meus estudos sobre Front-End.
 
 # Tecnologias e ferramentas
 ## Machine Learning
@@ -16,6 +16,10 @@ Atualmente, moro em Madalena - CE, tenho 24 anos e sou bacharela em Engenharia d
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"  width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"  width="100" height="100" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100" height="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="100" height="100"/> 
 
+## Baixo Nível
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="100" height="100"/>
+          
           
 #### Estou aprendendo
 
