@@ -16,9 +16,6 @@ Atualmente, moro em Madalena - CE, tenho 24 anos e sou bacharela em Engenharia d
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"  width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"  width="100" height="100" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100" height="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="100" height="100"/> 
 
-## Baixo Nível
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="100" height="100"/>
           
           
 #### Estou aprendendo
@@ -29,6 +26,10 @@ Atualmente, moro em Madalena - CE, tenho 24 anos e sou bacharela em Engenharia d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="100" height="100"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="100" height="100"/> 
 </div>
+
+## Baixo Nível
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="100" height="100"/>
 
 ## Você pode me encontrar aqui
 
